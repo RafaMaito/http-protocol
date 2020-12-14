@@ -1,4 +1,4 @@
-                             Exercícios propostos sobre Middlewares
+                             Exercícios propostos sobre GET/POST/PUT/DELETE
 
 </hr>
 
